@@ -22,3 +22,4 @@ Examples of input/ouput:
   * isLeapYear(2000); -> should return true because 2000 is a leap year
   
   NOTE: The method isLeapYear needs to be defined as public static.
+  NOTE: Do not add a main method to solution code.
