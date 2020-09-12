@@ -1,5 +1,5 @@
 # LeapYearCalculator
-# Taken from Tim Buchalka's Java Programming Masterclass for Software Developers course
+# Tim Buchalka's Java Programming Masterclass for Software Developers course
 Write a method isLeapYear with a parameter of type int named year.
 
 The parameter needs to be greater than or equal to 1 and less than or equal to 9999.
