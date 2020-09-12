@@ -1,9 +1,8 @@
 public class LeapYearCalculator {
 
     public static boolean isLeapYear(int year) {
+
         while (year >= 1 && year <= 9999) {
-
-
             if ((year % 4 == 0) && (year % 100 == 0) && (year % 400 == 0)) {
                 return true;
             }else
@@ -25,11 +24,5 @@ public class LeapYearCalculator {
         System.out.println("2017 : " + isLeapYear(2017));
         System.out.println("2000 : " + isLeapYear(2000));
         System.out.println(isLeapYear(1924));
-
-
-
-
-
-
     }
 }
